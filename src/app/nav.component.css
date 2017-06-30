@@ -1,0 +1,11 @@
+nav {
+    background: #600;
+}
+
+nav a {
+    color: #ccc;
+}
+
+nav a:hover, nav a.active-link {
+    color: #fff;
+}

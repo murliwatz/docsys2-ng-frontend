@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class NavComponent {
   
+  onLogoutClicked() {
+    localStorage.clear();
+  }
+
 }

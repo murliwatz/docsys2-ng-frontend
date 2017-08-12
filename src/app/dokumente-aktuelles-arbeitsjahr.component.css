@@ -1,0 +1,22 @@
+.panel-heading {
+    background: #600;
+    color: #ccc;
+}
+
+.ds-folder a {
+    box-sizing: border-box;
+    display: block;
+    text-align: center;
+    padding: 1em;
+    margin: 1em 0em;
+}
+
+.ds-folder .glyphicon {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+    display: block;
+}
+
+.ds-folder a {
+    color: #600;
+}
